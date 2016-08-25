@@ -7,3 +7,6 @@
 [submodule "semanticcms-autogit-taglib"]
 	path = semanticcms-autogit-taglib
 	url = git@github.com:aoindustries/semanticcms-autogit-taglib.git
+[submodule "semanticcms-autogit-view"]
+	path = semanticcms-autogit-view
+	url = git@github.com:aoindustries/semanticcms-autogit-view.git
