@@ -53,8 +53,6 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 		<module>semanticcms-autogit-style</module>
 		-->
 		<module>semanticcms-autogit-taglib</module>
-		<!-- TODO
 		<module>semanticcms-autogit-view</module>
-		-->
 	</modules>
 </project>
