@@ -10,3 +10,6 @@
 [submodule "semanticcms-autogit-view"]
 	path = semanticcms-autogit-view
 	url = git@github.com:aoindustries/semanticcms-autogit-view.git
+[submodule "semanticcms-autogit-style"]
+	path = semanticcms-autogit-style
+	url = git@github.com:aoindustries/semanticcms-autogit-style.git
