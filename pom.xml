@@ -47,6 +47,7 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
+		<module>semanticcms-autogit-all</module>
 		<module>semanticcms-autogit-model</module>
 		<module>semanticcms-autogit-servlet</module>
 		<module>semanticcms-autogit-style</module>
