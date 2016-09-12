@@ -38,6 +38,7 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 	<name>SemanticCMS AutoGit</name>
 	<url>https://semanticcms.com/autogit/</url>
 	<description>Parent POM for SemanticCMS automatic Git.</description>
+	<inceptionYear>2016</inceptionYear>
 
 	<scm>
 		<connection>scm:git:git://github.com/aoindustries/semanticcms-autogit.git</connection>
