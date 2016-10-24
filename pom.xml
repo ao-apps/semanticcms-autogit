@@ -38,6 +38,9 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<bookPath>/autogit</bookPath>
 		<shortTitle>AutoGit</shortTitle>
+		<javadoc.breadcrumbs><![CDATA[<a target="_top" href="${project.parent.parent.url}">${project.parent.parent.name}</a>
+/ <a target="_top" href="${project.parent.url}">AutoGit</a>
+/ <a target="_top" href="${project.url}">${shortTitle}</a>]]></javadoc.breadcrumbs>
 	</properties>
 
 	<name>SemanticCMS AutoGit</name>
