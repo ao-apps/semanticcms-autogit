@@ -57,11 +57,11 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
-		<module>semanticcms-autogit-all</module>
-		<module>semanticcms-autogit-model</module>
-		<module>semanticcms-autogit-servlet</module>
-		<module>semanticcms-autogit-style</module>
-		<module>semanticcms-autogit-taglib</module>
-		<module>semanticcms-autogit-view</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>view</module>
 	</modules>
 </project>
