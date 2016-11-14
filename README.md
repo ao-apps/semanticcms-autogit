@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [AutoGit](https://semanticcms.com/autogit/)
-Parent POM for [SemanticCMS automatic Git](https://semanticcms.com/autogit/).
+Aggregator POM for [SemanticCMS automatic Git](https://semanticcms.com/autogit/).
 
 ## Project Links
 * [Project Home](https://semanticcms.com/autogit/)
