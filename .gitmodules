@@ -1,21 +1,3 @@
-[submodule "semanticcms-autogit-model"]
-	path = semanticcms-autogit-model
-	url = git@github.com:aoindustries/semanticcms-autogit-model.git
-[submodule "semanticcms-autogit-servlet"]
-	path = semanticcms-autogit-servlet
-	url = git@github.com:aoindustries/semanticcms-autogit-servlet.git
-[submodule "semanticcms-autogit-taglib"]
-	path = semanticcms-autogit-taglib
-	url = git@github.com:aoindustries/semanticcms-autogit-taglib.git
-[submodule "semanticcms-autogit-view"]
-	path = semanticcms-autogit-view
-	url = git@github.com:aoindustries/semanticcms-autogit-view.git
-[submodule "semanticcms-autogit-style"]
-	path = semanticcms-autogit-style
-	url = git@github.com:aoindustries/semanticcms-autogit-style.git
-[submodule "semanticcms-autogit-all"]
-	path = semanticcms-autogit-all
-	url = git@github.com:aoindustries/semanticcms-autogit-all.git
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-autogit-all.git
