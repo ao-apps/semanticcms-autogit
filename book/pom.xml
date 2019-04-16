@@ -35,7 +35,7 @@ along with semanticcms-autogit.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.groupId>com.semanticcms</documented.groupId><documented.artifactId>semanticcms-autogit</documented.artifactId>
-		<documented.name>SemanticCMS 1 AutoGit</documented.name>
+		<documented.name>SemanticCMS AutoGit</documented.name>
 		<documented.shortTitle>AutoGit</documented.shortTitle>
 		<documented.url>https://semanticcms.com/autogit/</documented.url>
 		<documented.description>Aggregator POM for SemanticCMS automatic Git.</documented.description>
