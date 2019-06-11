@@ -27,6 +27,7 @@ Aggregator POM for [SemanticCMS automatic Git](https://github.com/aoindustries/s
 * [GitHub](https://github.com/aoindustries/semanticcms-autogit)
 
 ## Modules
+* [SemanticCMS AutoGit BOM](https://github.com/aoindustries/semanticcms-autogit-bom)
 * [SemanticCMS AutoGit All](https://github.com/aoindustries/semanticcms-autogit-all)
 * [SemanticCMS AutoGit Model](https://github.com/aoindustries/semanticcms-autogit-model)
 * [SemanticCMS AutoGit Servlet](https://github.com/aoindustries/semanticcms-autogit-servlet)
