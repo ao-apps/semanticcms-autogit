@@ -1,28 +1,28 @@
 [submodule "bom"]
-	path = bom
-	url = git@github.com:ao-apps/semanticcms-autogit-bom.git
-	branch = .
+  path = bom
+  url = git@github.com:ao-apps/semanticcms-autogit-bom.git
+  branch = .
 [submodule "all"]
-	path = all
-	url = git@github.com:ao-apps/semanticcms-autogit-all.git
-	branch = .
+  path = all
+  url = git@github.com:ao-apps/semanticcms-autogit-all.git
+  branch = .
 [submodule "model"]
-	path = model
-	url = git@github.com:ao-apps/semanticcms-autogit-model.git
-	branch = .
+  path = model
+  url = git@github.com:ao-apps/semanticcms-autogit-model.git
+  branch = .
 [submodule "servlet"]
-	path = servlet
-	url = git@github.com:ao-apps/semanticcms-autogit-servlet.git
-	branch = .
+  path = servlet
+  url = git@github.com:ao-apps/semanticcms-autogit-servlet.git
+  branch = .
 [submodule "style"]
-	path = style
-	url = git@github.com:ao-apps/semanticcms-autogit-style.git
-	branch = .
+  path = style
+  url = git@github.com:ao-apps/semanticcms-autogit-style.git
+  branch = .
 [submodule "taglib"]
-	path = taglib
-	url = git@github.com:ao-apps/semanticcms-autogit-taglib.git
-	branch = .
+  path = taglib
+  url = git@github.com:ao-apps/semanticcms-autogit-taglib.git
+  branch = .
 [submodule "view"]
-	path = view
-	url = git@github.com:ao-apps/semanticcms-autogit-view.git
-	branch = .
+  path = view
+  url = git@github.com:ao-apps/semanticcms-autogit-view.git
+  branch = .
