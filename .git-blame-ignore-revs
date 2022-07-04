@@ -9,13 +9,17 @@
 # $ git config blame.ignoreRevsFile .git-blame-ignore-revs
 
 # Significant manual code formatting clean-up…
+48256593b2e6c94b903690460260d0acf7185268
 7313e48317c8bbaa9bc737e130d70db78c2fcf7c
 
 # Performed automatic source code clean-up with rewrite-maven-plugin
+4eb71ec9e38a00200137128d47c00c953b1fe17b
 55e545c4d6980448b656e5d85cfec19f9cb6da0a
 
 # Performed automatic clean-up with org.openrewrite.java.cleanup.Cleanup
+6bacb39a5f33ee5ef0d8584156272daf1ed52e99
 9632561c945b5ce98a7424890e350b3205d27b9e
 
 # Performed manual checkstyle clean-up
+5bf54ee3fd99cd918c7c9de7128cee2e005fbcbd
 77c32a573940819b4fd6a6ccfe2db35931cca3ca
