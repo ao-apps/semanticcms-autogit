@@ -19,7 +19,7 @@ Aggregator POM for [SemanticCMS automatic Git](https://github.com/ao-apps/semant
 ## Project Links
 * [Project Home](https://semanticcms.com/autogit/)
 * [Changelog](https://semanticcms.com/autogit/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-autogit)
+* [Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-autogit)
 * [GitHub](https://github.com/ao-apps/semanticcms-autogit)
 
 ## Modules
